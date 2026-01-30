@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource name="Gardevoir" version="1.0" description="Custom Gardevoir encounter counter" author="Florina">
+  <overlays>
+    <overlay path="data/themes/" name="Encounter Theme"/>
+  </overlays>
+</resource>
