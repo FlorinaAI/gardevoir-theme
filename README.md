@@ -20,5 +20,5 @@ A custom theme for **PokeMMO**, with cute shiny Gardevoir family. ✨💕
 
 ## 🎨 Credits
 
-- **Tool:** [Hyper's Custom Encounter Counters](https://forums.pokemmo.com/index.php?/topic/190960-hypers-custom-encounter-counters/)
+- **Tool:** [Hyper's Custom Encounter Counters](https://forums.pokemmo.com/index.php?/topic/194506-hypers-animated-encounter-counter-generator/)
 - **Artwork:** [Tonestar on X](https://x.com/_Tonestar_/status/1536464923240407043)
