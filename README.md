@@ -9,6 +9,7 @@ A custom theme for **PokeMMO**, with cute shiny Gardevoir family. ✨💕
    ```text
    PokeMMO\data\mods
    ```
+3. Don't forget to enable it from **Mod Management**.
 
 ## 🖼️ Preview
 
